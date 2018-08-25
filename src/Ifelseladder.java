@@ -1,4 +1,4 @@
-
+//authour:priety bidwai
 public class Ifelseladder {
 
 	public static void main(String[] args) {
